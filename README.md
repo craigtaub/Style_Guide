@@ -17,3 +17,19 @@ $rolumn-width-bp4: 232px;
 <div class="stream-item">
 </div>
  ```
+
+<h3>Stream Item Typography</h3>
+```
+.brand {
+ color: #BDBDBD;
+ font-size: 0.84615em;
+ line-height: 1.81818em;
+}
+
+.title {
+```
+
+
+
+
+
