@@ -53,6 +53,7 @@ $rolumn-width-bp4: 232px;
 }
 
 .duration {
+ color: #fff;
  font-size: 1.07692em;
  line-height: 1.14286em;
 }
