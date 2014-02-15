@@ -1,7 +1,7 @@
 Style Guide
 ===========
 
-<h2>Grid</h2>
+<h2>Grid basics</h2>
 
 Don in rolumnz.
 8 per page.
@@ -16,9 +16,10 @@ $rolumn-width-bp4: 232px;
 ```
 <div class="stream-item">
 </div>
- ```
+```
 
-<h3>Stream Item Typography</h3>
+<h3>Homepage Stream Item Typography</h3>
+
 ```
 .brand {
  color: #BDBDBD;
@@ -27,6 +28,34 @@ $rolumn-width-bp4: 232px;
 }
 
 .title {
+ font-size: 1.38462em;
+ line-height: 1.11111em;
+ font-weight: 400;
+}
+
+.sub-title {
+ font-size: 1.07692em;
+ line-height: 1.42857em;
+ color: #BDBDBD;
+ font-weight: 400;
+}
+
+.synopsis {
+ font-size: 1.07692em;
+ line-height: 1.14286em;
+}
+ 
+.release {
+ color: #BDBDBD;
+ margin-top: 4px;
+ font-size: 1.07692em;
+ line-height: 1.14286em;
+}
+
+.duration {
+ font-size: 1.07692em;
+ line-height: 1.14286em;
+}
 ```
 
 
